@@ -41,7 +41,7 @@ python p1_bars.py -i evs_assignment1.xlsx
 ```
 
 ## TASK 2
-Objective
+**Objective**
 
 Create a dynamic bubble chart to visualize the relationship between four different attributes of the electric vehicles. Each car is represented by a circle centered at (x=a1, y=a2), with the area corresponding to a3 and a color encoding a4.
 
@@ -68,7 +68,7 @@ python p1_bubbles.py -i evs_assignment1.xlsx -x "Weight" -y "Range" -c "Top Spee
 ```
 
 ## TASK 3
-Objective
+**Objective**
 
 Create a dynamic scatter plot matrix (SPLOM) to visualize the relationships between multiple attributes of electric vehicles, showing correlations between each pair of attributes. Seaborn is a Python data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics. In this task, Seaborn's pairplot function is used to create the scatter plot matrix (SPLOM)
 
