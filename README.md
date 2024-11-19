@@ -22,7 +22,7 @@ pip install pandas seaborn matplotlib
 ```
 
 ## TASK 1
-Objective
+**Objective**
 
 Create two grouped bar charts to visualize the efficiency distribution of electric vehicles by production region. The first chart shows absolute counts, and the second chart shows the relative distribution.
 
